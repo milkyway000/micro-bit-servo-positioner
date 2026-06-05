@@ -1,0 +1,1 @@
+This is a short Python program for the BBC micro:bit to sweep and center positional servos, made by Oliver D. It is meant to be used in the MakeCode IDE. If you have ideas for improvements, feel free to add them!
